@@ -1,4 +1,4 @@
-int main()
++-...+int main()
 {
     printf("This is a xc demo.\n");
     return 0;

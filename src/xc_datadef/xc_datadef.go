@@ -19,7 +19,7 @@ const(
     TK_OPENPA      /* (   */
     TK_CLOSEPA     /* )   */
     TK_OPENBR      /* [   */
-    TK_CLESEBK     /* ]   */
+    TK_CLOSEBR     /* ]   */
     TK_BEGIN       /* {   */
     TK_END         /* }   */
     TK_SEMICOLON   /* ;   */
