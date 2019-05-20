@@ -1,11 +1,14 @@
-+-...+int main()
+        
+int main()
 {
-    printf("This is a xc demo.\n");
+    printf("string in main().\n");
     return 0;
 }
 
-void xc_entry()
+void x_entry()
 {
+    printf("string in x_entry().\n");
+
     int ret = 11;
     ret = main();
     exit(ret);
